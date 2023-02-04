@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/maldives/static/css/main.37b1fa5a.css",
+    "main.js": "/maldives/static/js/main.a7e1e8ca.js",
+    "static/media/beachVid.mp4": "/maldives/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/keywest.jpg": "/maldives/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/maldives/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/maldives/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/maldives/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/maldives/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/maldives/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "index.html": "/maldives/index.html",
+    "main.37b1fa5a.css.map": "/maldives/static/css/main.37b1fa5a.css.map",
+    "main.a7e1e8ca.js.map": "/maldives/static/js/main.a7e1e8ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37b1fa5a.css",
+    "static/js/main.a7e1e8ca.js"
+  ]
+}
